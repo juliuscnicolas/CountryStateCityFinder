@@ -1,0 +1,15 @@
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.exe
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.deps.json
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.runtimeconfig.json
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.runtimeconfig.dev.json
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.dll
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\CountryStateCityFinder.pdb
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.csprojAssemblyReference.cache
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.AssemblyInfoInputs.cache
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.AssemblyInfo.cs
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.dll
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.pdb
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.genruntimeconfig.cache
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.csproj.CoreCompileInputs.cache
+C:\repos\Others\CountryStateCityFinder\CountryStateCityFinder\CountryStateCityFinder\obj\Debug\netcoreapp3.1\CountryStateCityFinder.csproj.CopyComplete
